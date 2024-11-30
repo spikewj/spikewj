@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+
+[![Spikewj's GitHub stats](https://github-readme-stats.vercel.app/api?username=spikewj)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **spikewj/spikewj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
